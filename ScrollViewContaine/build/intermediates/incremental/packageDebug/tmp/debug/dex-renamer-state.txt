@@ -1,0 +1,4 @@
+#Thu Mar 05 00:16:14 CST 2020
+base.0=C\:\\Android\\AndroidProject\\Shopping\\ScrollViewContaine\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
